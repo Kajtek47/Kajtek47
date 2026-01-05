@@ -74,5 +74,5 @@ Implemented SQL-based ETL logic and created Power BI dashboards.
 
 ## Contact
 
-🌐 [GitHub:](https://github.com/Kajtek47)  
-💼 [LinkedIn:](https://www.linkedin.com/in/kajetan-mal%C4%85g-491236389/)
+🌐 GitHub:(https://github.com/Kajtek47)  
+💼 LinkedIn:(https://www.linkedin.com/in/kajetan-mal%C4%85g-491236389/)
