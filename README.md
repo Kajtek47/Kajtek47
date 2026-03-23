@@ -1,78 +1,73 @@
 # Hi there, I'm Kajetan 👋
 
-🎓 Data Engineering student (3rd year)  
-📊 Interested in Data Engineering, Data Analysis & Business Intelligence  
+🎓 **BSc Data Engineering Student @ Gdańsk University of Technology (PG)**
 
-I enjoy working with data — from databases and ETL logic to analysis and visualization.
-
----
-
-## My Focus
-
-- Data Engineering: SQL, ETL processes, data warehousing  
-- Data Analysis & BI: analytical queries, reporting and dashboards  
-- Python for Data: data preprocessing and basic machine learning  
-- Continuous learning through academic and personal projects  
+I am an aspiring Data Professional who enjoys turning raw, messy data into structured, actionable insights. My focus spans the entire data lifecycle: from building robust ETL pipelines and data warehouses (**Data Engineering**), through interactive dashboards (**Business Intelligence**), to predictive modeling and statistical simulations (**Data Science**).
 
 ---
 
-## Tech Stack
+## 🎯 What I do
 
-### Data & Databases
+- **Data Engineering:** Designing data warehouses, writing ETL/ELT pipelines, and managing relational databases.
+- **Data Science & ML:** Predictive modeling, statistical simulations (e.g., Monte Carlo), and data preprocessing in Python.
+- **Data Analysis & BI:** Translating complex datasets into readable, interactive dashboards that drive business decisions.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Databases & Data Engineering
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Data Analysis & BI
+### Business Intelligence & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-004088?style=for-the-badge&logo=microsoft&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-### Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## 🚀 Featured Projects
+
+### 🏀 Basketball League Standings Prediction (Monte Carlo)
+🔗 [https://github.com/Kajtek47/basketball-predictor](https://github.com/Kajtek47/basketball-predictor)
+* **Domain:** Data Science / Statistics
+* **Overview:** A statistical simulation utilizing the Monte Carlo method to predict the final standings of a basketball league, complete with data visualization. 
+* **Tech:** Python, Pandas, Data Visualization.
+
+### 🏭 End-to-End Data Warehouse & BI Solution
+🔗 [https://github.com/Kajtek47/school-data-warehouse](https://github.com/Kajtek47/school-data-warehouse)
+* **Domain:** Data Engineering / BI
+* **Overview:** Designed a fully functional dimensional data warehouse (fact & dimension tables). Implemented SQL-based ETL logic to feed the warehouse and created interactive Power BI dashboards for reporting.
+* **Tech:** SQL, ETL, Power BI.
+
+### 🚌 Gdańsk Data Traffic Engine
+🔗 [https://github.com/Kajtek47/gdansk-data-engine](https://github.com/Kajtek47/gdansk-data-engine)
+* **Domain:** Data Engineering / Analytics
+* **Overview:** Analyzed public transport GPS data using DuckDB and Parquet, visualizing the results in a Streamlit dashboard.
+* **Tech:** Python, SQL, DuckDB, Streamlit.
+
+### 🏥 Insurance Claim Prediction
+🔗 [https://github.com/Kajtek47/insurance-claim-prediction](https://github.com/Kajtek47/insurance-claim-prediction)
+* **Domain:** Machine Learning
+* **Overview:** Built an ML model predicting insurance claim outcomes. Focused on data preprocessing, feature engineering, and model evaluation.
+* **Tech:** Python, Scikit-learn, EDA.
 
 ---
 
-## Featured Projects
+## 📫 Let's Connect!
 
-### Gdańsk Data Traffic Engine
-🔗 https://github.com/Kajtek47/gdansk-data-engine  
-
-Data engineering project analyzing public transport GPS data using SQL, DuckDB and Parquet, with results visualized in a Streamlit dashboard.
-
----
-
-### Insurance Claim Prediction
-🔗 https://github.com/Kajtek47/insurance-claim-prediction  
-
-Machine learning project focused on predicting insurance claim outcomes using Python, data preprocessing and model evaluation.
-
----
-
-### Data Warehouse & BI Solution
-
-Designed a dimensional data warehouse (fact & dimension tables).  
-Implemented SQL-based ETL logic and created Power BI dashboards.
-
----
-
-## Education
-
-🎓 BSc in Data Engineering  
-2023 – present
-
----
-
-## Contact
-
-🌐 GitHub: https://github.com/Kajtek47
-💼 LinkedIn: https://www.linkedin.com/in/kajetan-mal%C4%85g-491236389/
+🌐 **GitHub:** [Kajtek47](https://github.com/Kajtek47)  
+💼 **LinkedIn:** [Kajetan Maląg](https://www.linkedin.com/in/kajetan-mal%C4%85g-491236389/)
