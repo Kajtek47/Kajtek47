@@ -69,5 +69,4 @@ I am an aspiring Data Professional who enjoys turning raw, messy data into struc
 
 ## 📫 Let's Connect!
 
-🌐 **GitHub:** [Kajtek47](https://github.com/Kajtek47)  
-💼 **LinkedIn:** [Kajetan Maląg](https://www.linkedin.com/in/kajetan-mal%C4%85g-491236389/)
+💼 **LinkedIn:** [Kajetan Maląg](www.linkedin.com/in/kajetan-malag)
